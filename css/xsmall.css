@@ -1,0 +1,48 @@
+@media (max-width: 767px) {
+	.header_area A.cart{margin:20px 20px 0px 0px;float:right;height:40px;width:40px;background:url('images/cart.png') left center no-repeat;background-size:cover;}
+
+	.navigation_area{margin:0px}
+	.navigation_area NAV.navbar-default{}
+	.navigation_area .navbar-default .navbar-toggle {border: none;margin-top:25px;}
+	.navigation_area NAV.navbar-default .navbar-collapse{padding:0px;}
+	.navigation_area NAV.navbar-default .navbar-nav{margin:5px 0px;}
+	.navigation_area NAV.navbar-default .navbar-nav > LI > A{padding:5px 5px;}
+
+	.content_area{min-height:auto;}
+	.content_headline H1{font-size:24px;text-align:left;font-family: GillSans,Helvetica,Arial,sans-serif;text-transform:uppercase;margin:0px;padding:0px;line-height:30px;}
+
+
+	.footer_area #footer_nav{margin-top:40px;}
+	.footer_area .footer-social{margin:0px 10px 10px 10px;text-align:center;}
+	.footer_area .footer-social .social{margin:10px;}
+	.footer_area .footer-social .social IMG{max-width:20%}
+	.footer_area .copyright{font-size:11px;line-height:18px;}
+
+	.gallery_modal .modal-dialog{width:100%;}
+	.gallery .carousel-indicators{display:none;}
+	.gallery .carousel-caption-container{margin-left:10%;margin-right:10%;}
+	.gallery .carousel-caption-headline{font-size:30px;line-height:30px;}
+	.gallery .carousel .item{position:relative;margin-bottom:10px;display:block}
+
+
+	.category_short-name{font-size:24px;line-height:24px;}
+
+	.product_short .product_short_name{text-align:left;}
+	.product_short .product_short_price{text-align:left;}
+	.product_short-inner .product_cart_popup>DIV>DIV>DIV{text-align:center;}
+	.product_short-inner .product_cart_popup>DIV>DIV>DIV.buy{text-align:center;}
+	.product_short-inner .product_cart_popup_selections>DIV>DIV>DIV{text-align:center;}
+	.product_short-inner .product_cart_popup_selections>DIV>DIV>DIV.price{text-align:center;}
+
+	.cart_delivery INPUT,
+	.cart_delivery SELECT{margin:2px 0px}
+
+	.cart_section .product_quantity{margin:5px 0px;}
+
+	.CalendarMonthHeader{display:block;}
+	.CalendarFooter{display:block;}
+	.CalendarDayHeader{display:none;}
+	.CalendarDay{display:block;width:100%;}
+	.CalendarDayEmptyPre{display:none;}
+	.CalendarDayEmptyPost{display:none;}
+}

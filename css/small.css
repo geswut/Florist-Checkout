@@ -1,0 +1,30 @@
+@media (min-width: 768px) and (max-width: 991px) {
+	.header_area .navigation A{padding:0px 6px;font-size:12px;border:none;}
+	.header_area .bannerbar{padding:20px 0px;}
+	.header_area .bannerbar A {margin: 0px 15px;}
+	.subnavigation_area{padding:5px;}
+	.subnavigation_area A{font-size:12px;border:none;}
+
+	.header_area .searchbox{display:none}
+
+	.content_area{min-height:200px;}
+	
+	.gallery_modal .modal-dialog{width:100%;} 
+
+	.gallery .carousel-caption-container{margin-left:10%;margin-right:10%;}
+
+ 	.category_short-name{font-size:20px;line-height:20px;}
+
+	.product_short .product_short_name{text-align:left;}
+	.product_short .product_short_price{text-align:left;}
+	
+	.cart_section .product_quantity{margin:5px 0px;}
+
+
+	.CalendarMonthHeader{display:block;}	
+	.CalendarFooter{display:block;}	
+	.CalendarDayHeader{display:none;}
+	.CalendarDay{display:block;width:100%;}
+	.CalendarDayEmptyPre{display:none;}
+	.CalendarDayEmptyPost{display:none;}		
+}

@@ -1,0 +1,20 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+	.header_area .navigation A{padding:0px 18px;font-size:14px;}
+
+	.header_area .bannerbar{padding:20px 10px;}
+
+	.subnavigation_area{padding:5px;}
+	.subnavigation_area A{font-size:14px;}
+
+	.content_area{min-height:350px;}
+
+	.gallery_modal .modal-dialog{width:100%;} 
+
+	.gallery .carousel-caption-container{margin-left:25%;margin-right:25%;}
+
+
+	.category_short-name{font-size:24px;line-height:24px;}
+
+	.product_short .product_short_name{text-align:left;}
+	.product_short .product_short_price{text-align:left;}
+}
